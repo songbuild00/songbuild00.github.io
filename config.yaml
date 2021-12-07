@@ -1,7 +1,7 @@
 baseURL: "https://examplesite.com/"
 title: SongBuild
 paginate: 5
-theme: Song
+theme: song
 
 enableRobotsTXT: true
 buildDrafts: false

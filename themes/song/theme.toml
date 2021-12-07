@@ -1,9 +1,9 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Song"
+name = "song"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+licenselink = "https://github.com/songbuild00/blog/blob/master/themes/song/LICENSE"
 description = ""
 homepage = "http://songbuild00.github.io/"
 tags = []
@@ -11,7 +11,7 @@ features = []
 min_version = "0.83.0"
 
 [author]
-  name = "Peter Song"
+  name = "songbuild00"
   homepage = "https://github.com/songbuild00/"
 
 # If porting an existing theme
