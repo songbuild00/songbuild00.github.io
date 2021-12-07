@@ -58,7 +58,7 @@ params:
     enabled: true # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "me.jpg"
+    imageUrl: "/img/me.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
