@@ -115,7 +115,7 @@ menu:
       weight: 10
     - identifier: posts
       name: posts
-      url: /post/
+      url: /posts/
       weight: 20
     - identifier: categories
       name: categories

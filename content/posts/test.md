@@ -7,7 +7,6 @@ author: "송건석"
 showToc: true
 TocOpen: true
 description: "설명"
-canonicalURL: "http://localhost:1313/post/test/"
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
