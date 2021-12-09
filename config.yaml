@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -20,7 +20,6 @@ params:
   description: "ExampleSite description"
   keywords: [Blog, Portfolio]
   author: Me
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006년 1월 2일" # "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -38,6 +37,9 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  
+  prevPageText: "이전 페이지"
+  nextPageText: "다음 페이지"
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -66,7 +68,7 @@ params:
       - name: About
         url: about
       - name: Post
-        url: post
+        url: posts
 
   # home-info mode
   homeInfoParams:

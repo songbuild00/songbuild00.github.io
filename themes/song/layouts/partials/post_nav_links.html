@@ -2,15 +2,15 @@
 {{- if and (gt (len $pages) 1) (in $pages . ) }}
 <nav class="paginav">
   {{- with $pages.Next . }}
-  <a class="prev" href="{{ .Permalink }}">
-    <span class="title">« {{ i18n "prev_page" }}</span>
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ site.Params.nextPageText }} »</span>
     <br>
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}
   {{- with $pages.Prev . }}
-  <a class="next" href="{{ .Permalink }}">
-    <span class="title">{{ i18n "next_page" }} »</span>
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ site.Params.prevPageText }}</span>
     <br>
     <span>{{- .Name -}}</span>
   </a>

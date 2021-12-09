@@ -1,6 +1,6 @@
 ---
-title: "첫번째 글"
-date: 2021-09-14T11:30:03+00:00
+title: "두번째 글"
+date: 2021-09-15T11:30:03+00:00
 tags: ["algorithm"]
 categories: ["테스트 카테고리"]
 author: "송건석"
