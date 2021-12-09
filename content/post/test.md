@@ -1,9 +1,8 @@
 ---
 title: "첫번째 글"
 date: 2021-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+tags: ["algorithm"]
+categories: ["테스트 카테고리"]
 author: "송건석"
 showToc: true
 TocOpen: true

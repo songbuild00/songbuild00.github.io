@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://songbuild00.github.io/"
 title: SongBuild
 paginate: 5
 theme: song
@@ -18,11 +18,11 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006년 1월 2일" # "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: true
 
@@ -63,10 +63,10 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
+      - name: About
+        url: about
+      - name: Post
         url: post
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -93,8 +93,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/songbuild00/songbuild00.github.io/tree/master/content"
+    Text: "수정 제안" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -117,18 +117,10 @@ menu:
       name: posts
       url: /post/
       weight: 20
-#    - identifier: categories
-#      name: categories
-#      url: /categories/
-#      weight: 10
-#    - identifier: tags
-#      name: tags
-#      url: /tags/
-#      weight: 20
-#    - identifier: example
-#      name: example.org
-#      url: https://example.org
-#      weight: 30
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
