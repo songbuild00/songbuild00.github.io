@@ -1,5 +1,5 @@
 baseURL: "https://songbuild00.github.io/"
-title: SongBuild
+title: Build
 paginate: 5
 theme: song
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Build
+  description: ""
   keywords: [Blog, Portfolio]
   author: Me
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -44,22 +44,22 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon.png"
+    favicon16x16: "/favicon-16.png"
+    favicon32x32: "/favicon-32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "Home"
+    text: "Build"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: Build
+    subtitle: ""
     imageUrl: "/img/me.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -71,9 +71,9 @@ params:
         url: posts
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+#  homeInfoParams:
+#    Title: "Hi there \U0001F44B"
+#    Content: Welcome to my blog
 
   socialIcons:
     - name: github
@@ -81,13 +81,13 @@ params:
     - name: instagram
       url: "https://instagram.com/song.build/"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+#  analytics:
+#    google:
+#      SiteVerificationTag: "XYZabc"
+#    bing:
+#      SiteVerificationTag: "XYZabc"
+#    yandex:
+#      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
