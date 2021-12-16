@@ -26,7 +26,7 @@ params:
   description: ""
   keywords: [Blog, Portfolio]
   author: Me
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/main.png"]
   DateFormat: "2006년 1월 2일" # "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: true
@@ -66,7 +66,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Build
     subtitle: ""
-    imageUrl: "/img/me.jpg"
+    imageUrl: "/me.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
