@@ -25,7 +25,7 @@ params:
   title: s0n9
   description: ""
   keywords: [Blog, Portfolio]
-  author: Me
+  author: s0n9
   images: ["/main.png"]
   DateFormat: "2006년 1월 2일" # "January 2, 2006"
   defaultTheme: auto # dark, light
