@@ -3,9 +3,9 @@
 
 name = "song"
 license = "MIT"
-licenselink = "https://github.com/songbuild00/blog/blob/master/themes/song/LICENSE"
+licenselink = "https://github.com/songbuild00/songbuild00.github.io/blob/master/themes/song/LICENSE"
 description = ""
-homepage = "http://songbuild00.github.io/"
+homepage = "http://s0n9.dev/"
 tags = []
 features = []
 min_version = "0.83.0"
