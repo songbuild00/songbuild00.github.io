@@ -4,12 +4,12 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
+since = 2023
 customText = ""
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "2006년 1월 2일"
+lastUpdated = "2006년 1월 2일 15:04 KST"
 
 [sidebar]
 emoji = "🍥"
@@ -75,7 +75,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "utterances"
 
 [comments.disqusjs]
 shortname = ""
@@ -85,7 +85,7 @@ admin = ""
 adminLabel = ""
 
 [comments.utterances]
-repo = ""
+repo = "songbuild00/blog-comments"
 issueTerm = "pathname"
 label = ""
 
