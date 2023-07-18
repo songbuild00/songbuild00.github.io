@@ -1,0 +1,7 @@
+# 이 파일을 languages.toml 로 바꿔서 Multilingual 지원 추가 가능
+
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Example Site"
+weight = 1
