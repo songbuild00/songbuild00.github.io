@@ -2,7 +2,7 @@
 baseurl = "https://s0n9.dev"
 languageCode = "ko-kr"
 paginate = 5
-title = "s0n9 블로그"
+title = "s0n9 blog"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar

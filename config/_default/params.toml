@@ -12,8 +12,8 @@ published = "2006년 1월 2일"
 lastUpdated = "2006년 1월 2일 15:04 MST"
 
 [sidebar]
-emoji = "🖥️"
-subtitle = "s0n9의 블로그입니다. 학생입니다."
+emoji = ""
+subtitle = "잡다한 블로그입니다. 업데이트가 주기적이지 않습니다."
 
 [sidebar.avatar]
 enabled = true

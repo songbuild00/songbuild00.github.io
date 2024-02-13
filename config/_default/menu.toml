@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "instagram"
 name = "Instagram"
-url = "https://instagram.com/song.build"
+url = "https://instagram.com/build.song"
 
 [social.params]
 icon = "brand-instagram"
