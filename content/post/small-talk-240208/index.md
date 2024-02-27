@@ -17,13 +17,13 @@ tags:
 
 ## 인프런 강의 시작?
 
-![Inflearn Screenshot](https://cdn.discordapp.com/attachments/1016613887698800724/1205107607724105758/image.png?ex=65d72aeb&is=65c4b5eb&hm=1b1aa1a4a8c5491036725f8d8086151f35b998173ecf18bc9457232b0c7add6b&)
+![인프런](inflearn_screenshot.png)
 
 오늘은 설 연휴 전 날이라 본가에 왔는데, 자취방에서는 안 하던 걸 하고 싶어졌는지 절대 안 듣던 인프런 무료 강의를 듣기 시작했습니다. 얼마나 갈 지는 모르겠네요.
 
 ## 랠릿 이력서
 
-![Rallit Screenshot](https://cdn.discordapp.com/attachments/1016613887698800724/1205109103358255175/image.png?ex=65d72c50&is=65c4b750&hm=e474a82bb13fed3dcca3a5f4dd4eac951daeafc8878b15473c4b6ba12ce7aa7e&)
+![랠릿](rallit_screenshot.png)
 
 이제 4학년이라 이력서를 준비해야 할 듯 싶어서, 인터넷에서 추천 글을 본 [랠릿](https://www.rallit.com/resume)에 작성을 해 보고 있습니다. 이 랠릿도 위의 인프런과 같은 회사인 것 같더라고요. 편하게 작성할 수 있고, PDF로도 뽑을 수 있는 것이 큰 장점입니다. 다만, 이제 4학년임에도 이력서에 쓸 것이 없다는 것이 제일 큰 문제입니다.
 
