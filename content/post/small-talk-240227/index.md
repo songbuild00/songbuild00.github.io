@@ -1,9 +1,8 @@
 ---
 title: 잡담 (240227)
-description: 그냥 잡담
+description: 인프런 수강 현황, 기사 시험 신청 및 필기 가채점 합격
 slug: small-talk-240227
 date: 2024-02-27 00:00:00+0900
-image: cover.png
 categories:
     - 잡담
 tags:

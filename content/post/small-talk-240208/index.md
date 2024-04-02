@@ -1,9 +1,8 @@
 ---
 title: 잡담 (240208)
-description: 그냥 잡담
+description: 인프런 수강 시작?, 랠릿 이력서
 slug: small-talk-240208
 date: 2024-02-08 00:00:00+0900
-image: cover.png
 categories:
     - 잡담
 tags:
@@ -15,7 +14,7 @@ tags:
 
 그냥 원래 하나 있던 글도 지워버리고 이렇게 가볍게 시작하려 합니다. 이렇게 해야 뭐라도 좀 쓸 듯.
 
-## 인프런 강의 시작?
+## 인프런 수강 시작?
 
 ![인프런](inflearn_screenshot.png)
 
