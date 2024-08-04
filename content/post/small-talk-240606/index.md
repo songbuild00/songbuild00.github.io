@@ -1,6 +1,6 @@
 ---
 title: 잡담 (240606)
-description: 
+description: 정보처리기사 실기 후기, 학교 생활
 slug: small-talk-240606
 date: 2024-06-06 00:00:00+0900
 categories:
