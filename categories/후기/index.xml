@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>후기 on s0n9 blog</title><link>https://s0n9.dev/categories/%ED%9B%84%EA%B8%B0/</link><description>Recent content in 후기 on s0n9 blog</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://s0n9.dev/categories/%ED%9B%84%EA%B8%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>부스트캠프 웹∙모바일 9기 웹 풀스택(JavaScript) 지원 후기</title><link>https://s0n9.dev/p/boostcamp-apply-story/</link><pubDate>Sun, 25 Aug 2024 00:00:00 +0900</pubDate><guid>https://s0n9.dev/p/boostcamp-apply-story/</guid><description>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/boostcamp_logo.png" alt="Featured image of post 부스트캠프 웹∙모바일 9기 웹 풀스택(JavaScript) 지원 후기" />&lt;h2 id="부스트캠프-웹모바일-9기-웹-풀스택javascript-전형">부스트캠프 웹∙모바일 9기 웹 풀스택(JavaScript) 전형
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/boostcamp_logo.png"
+width="4275"
+height="2000"
+loading="lazy"
+alt="부스트캠프"
+class="gallery-image"
+data-flex-grow="213"
+data-flex-basis="513px"
+>&lt;/p>
+&lt;p>저는 &lt;strong>&lt;a class="link" href="https://boostcamp.connect.or.kr/" target="_blank" rel="noopener"
+>부스트캠프 웹∙모바일&lt;/a> 9기 웹 풀스택(JavaScript)&lt;/strong> 과정에 지원하였습니다. 그 과정에 대해 적어보고자 합니다.&lt;/p>
+&lt;h2 id="지원-계기">지원 계기
+&lt;/h2>&lt;p>저는 현재 실제 웹 개발 경험이 부족한 상황입니다. 학교 프로젝트로 약간의 Spring과 express.js를 경험해 본 바는 있지만, 해당 부분은 제가 주도해서 코딩하지 않았거나, 정말 샘플 정도의 REST API가 필요했던 경우였기에 웹 쪽에서의 여러 문제 해결 경험을 갖기 힘들었습니다.&lt;/p>
+&lt;p>그랬던 때에 앞서 작성했던 소프티어 부트캠프와 부스트캠프가 보였고, 둘 다 지원하게 되었습니다. 부스트캠프는 온라인으로 진행되기에 지방에 사는 입장에서 교육을 듣기 편하겠다는 생각이 들었습니다. 다만, JavaScript 풀스택 교육은 약간의 걱정이 있긴 했는데, JavaScript를 많이 다뤄보지 않았을 뿐더러 언어 자체가 까다롭다는 이야기들을 많이 들은 상황이었습니다. 그래도 어떤 언어로든 웹 개발을 경험해보고 문제를 해결해나가다보면, 언어나 프레임워크는 큰 문제가 아니라고 생각하기에 큰 거부감 없이 지원하였습니다.&lt;/p>
+&lt;h2 id="1차-문제-해결력-테스트">1차 문제 해결력 테스트
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/test_1_guide.png"
+width="1194"
+height="546"
+loading="lazy"
+alt="1차 문제 해결력 테스트 안내"
+class="gallery-image"
+data-flex-grow="218"
+data-flex-basis="524px"
+>&lt;/p>
+&lt;p>1차 문제 해결력 테스트를 보았고, 문제는 무난했습니다. 다 풀 수 있는 문제들이었고, 풀고 전부 제출하였습니다. 사실 너무 오래되어서 기억이 가물가물합니다&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/test_1_to_2.png"
+width="1194"
+height="522"
+loading="lazy"
+alt="2차 문제 해결력 테스트 대상자 선정"
+class="gallery-image"
+data-flex-grow="228"
+data-flex-basis="548px"
+>&lt;/p>
+&lt;p>이번 부스트캠프 9기는 베이직 과정이 신설되어, 1차 문제 해결력 테스트 결과에 따라 베이직 과정으로 가서 학습 후에 2차 문제 해결력 테스트를 보는 경우가 있는데, 저는 베이직 과정을 거치지 않아도 되는 대상자로 선정되었습니다. 하지만 2차부터는 각 과정에 맞는 언어(웹 풀스택 같은 경우 JavaScript)로 테스트를 봐야 하는데, JavaScript에 자신이 없어 저는 베이직 과정을 듣는 것으로 결정하였습니다.&lt;/p>
+&lt;h2 id="베이직-과정">베이직 과정
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/basic_notion.png"
+width="1230"
+height="790"
+loading="lazy"
+alt="베이직 과정 노션 정리"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="373px"
+>&lt;/p>
+&lt;p>저는 베이직 과정을 들으면서, 나오는 미션에 맞춰서 JavaScript 기본 문법에 대해 학습하고 노션에 따로 정리해두었습니다.&lt;/p>
+&lt;p>그렇게 9일차까지 잘 참석하였는데&amp;hellip; 마지막 10일차에 개인 사정으로 인해 참여하지 못하여 베이직 과정 수료증을 받지는 못하였습니다. (다만, 저는 이미 2차 테스트 대상자로 선정되었기에 테스트를 보는 것에는 문제가 없었습니다.)&lt;/p>
+&lt;h2 id="2차-문제-해결력-테스트">2차 문제 해결력 테스트
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/test_2_guide.png"
+width="1190"
+height="524"
+loading="lazy"
+alt="2차 문제 해결력 테스트 안내"
+class="gallery-image"
+data-flex-grow="227"
+data-flex-basis="545px"
+>&lt;/p>
+&lt;p>그렇게 2차 문제 해결력 테스트를 보았습니다. 문제들에서 베이직 과정에서 들었던 키워드들이 몇 나오긴 했지만, 검색이 가능한 시험이었기에 큰 문제는 되지 않을 것 같습니다.&lt;/p>
+&lt;p>저는 일단 모든 문제를 다 풀어서 제출했고, 제 예상으로는 프로그래밍 문제는 다 맞았을 것 같습니다. 여러 &lt;strong>요구사항에 맞는 데이터 구조를 생각해 보는 경험, 구현을 빠르게 하는 경험&lt;/strong> 등이 필요할 것 같습니다.&lt;/p>
+&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/challenge_admission.png"
+width="1192"
+height="636"
+loading="lazy"
+alt="챌린지 입과 안내"
+class="gallery-image"
+data-flex-grow="187"
+data-flex-basis="449px"
+>&lt;/p>
+&lt;p>저는 챌린지에 입과하게 되었고, 챌린지는 4주동안 진행되는 과정입니다. 이후에 3차 문제 해결력 테스트를 통해 멤버십 과정에 입과하게 되면 마지막 14주 과정을 진행할 수 있습니다.&lt;/p>
+&lt;h2 id="챌린지-과정">챌린지 과정
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/challenge_study.png"
+width="1466"
+height="642"
+loading="lazy"
+alt="챌린지 학습 정리"
+class="gallery-image"
+data-flex-grow="228"
+data-flex-basis="548px"
+>&lt;/p>
+&lt;p>챌린지 과정 때에도 노션을 통해 미션, 학습 정리 등을 적어두었고, 학습 정리 내용은 추후 정리해서 블로그에도 올릴 수도 있을 것 같습니다.&lt;/p>
+&lt;p>정말 이름대로 도전적인 과정이었고, 하루마다 미션들이 쉽지 않았습니다. 그만큼 여러 경험들을 할 수 있고, 팀끼리 소통하며 많은 것을 배워가는 시간이 되었던 것 같습니다.&lt;/p>
+&lt;h2 id="3차-문제-해결력-테스트">3차 문제 해결력 테스트
+&lt;/h2>&lt;p>3차 문제 해결력 테스트는 챌린지 과정 마지막 날에 진행이 되었습니다. 따로 테스트 내용에 대해서 이야기하는 것이 조심스럽긴 하지만, 이전 테스트와는 스타일이 달랐고 챌린지 과정 중의 미션과 비슷한 느낌이었습니다.&lt;/p>
+&lt;p>꽤 어려웠고, 저도 첫 문제는 해결했지만 두 번째 미션은 전부 구현하지 못하고 제가 할 수 있는 부분만 구현해 제출하였습니다.&lt;/p>
+&lt;h2 id="결과">결과
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/boostcamp-apply-story/membership_admission.png"
+width="1184"
+height="566"
+loading="lazy"
+alt="멤버십 입과 안내"
+class="gallery-image"
+data-flex-grow="209"
+data-flex-basis="502px"
+>&lt;/p>
+&lt;p>그래도 다행히 멤버십에 입과할 수 있었습니다.&lt;/p>
+&lt;p>저는 지금은 멤버십 과정을 진행 중에 있습니다. 부스트캠프가 온라인으로 진행되는 것에 매력을 느꼈고, 베이직과 챌린지 과정을 진행하며 굉장히 꼼꼼하고 많은 것을 경험할 수 있게 설계되었다고 생각하였기에 멤버십도 입과하게 되었던 것 같습니다.&lt;/p>
+&lt;p>앞으로는 멤버십 과정 중에 학습하는 내용들을 블로그에 정리해서 올리려고 노력할 것 같습니다.&lt;/p>
+&lt;p>사실 글을 쓰다보니 좀 내용이 부실하긴 한데, 어디까지 이야기할 수 있는지 모르겠어서 그냥 전형 과정에 대한 서술만 해두겠습니다.&lt;/p></description></item><item><title>소프티어 부트캠프 4기 웹백엔드 지원 후기</title><link>https://s0n9.dev/p/softeer-apply-story/</link><pubDate>Mon, 05 Aug 2024 00:00:00 +0900</pubDate><guid>https://s0n9.dev/p/softeer-apply-story/</guid><description>&lt;img src="https://s0n9.dev/p/softeer-apply-story/softeer_bootcamp_logo.jpg" alt="Featured image of post 소프티어 부트캠프 4기 웹백엔드 지원 후기" />&lt;h2 id="현대자동차그룹-소프티어-부트캠프-4기-웹백엔드-전형">현대자동차그룹 소프티어 부트캠프 4기 웹백엔드 전형
+&lt;/h2>&lt;p>&lt;img src="http://csai.jbnu.ac.kr/CrossEditor/binary/images/000602/[%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B7%B8%EB%A3%B9]2024_%EC%83%81%EB%B0%98%EA%B8%B0_%EC%86%8C%ED%94%84%ED%8B%B0%EC%96%B4%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%844%EA%B8%B0_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg"
+loading="lazy"
+alt="현대자동차그룹 소프티어 부트캠프 4기 모집 안내"
+>&lt;/p>
+&lt;p>저는 이번 현대자동차그룹 소프티어 부트캠프 4기에 웹백엔드 전형으로 지원을 했습니다. 그 후기를 작성하고자 합니다.&lt;/p>
+&lt;h2 id="1차-코딩-테스트">1차 코딩 테스트
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/softeer-apply-story/1_test_mail.png"
+width="1444"
+height="816"
+loading="lazy"
+alt="1차 테스트 안내 메일"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="424px"
+>&lt;/p>
+&lt;p>우선 지원하고 나서, 서류에서 떨어지진 않겠지? 라고 생각했는데, 다행히 1차 테스트 기회를 얻었습니다.&lt;/p>
+&lt;p>코딩 테스트 준비는 학기 중이라 스터디에서 진행하던 문제 풀이, 그리고 친구와 함께 따로 간간히 문제를 풀어왔습니다. 저는 알고리즘 대신 주로 구현 문제를 풀었으며, 실버~골드 하위권 문제들을 빠르게 풀기 위해 노력했던 것 같습니다.&lt;/p>
+&lt;p>코딩 테스트 결과는 나오지는 않지만, 개인적으로 되돌아 봤을 때에는 1~2문제의 예외조건을 맞추지 못한 것을 제외하면 거의 맞게 한 것 같습니다. 일단 전부 코드를 작성하긴 했습니다.&lt;/p>
+&lt;h2 id="2차-소프트웨어-지식-테스트">2차 소프트웨어 지식 테스트
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/softeer-apply-story/2_test_mail.png"
+width="1418"
+height="938"
+loading="lazy"
+alt="2차 테스트 안내 메일"
+class="gallery-image"
+data-flex-grow="151"
+data-flex-basis="362px"
+>&lt;/p>
+&lt;p>1차 코딩 테스트를 보고 나서 한 일주일정도 후 2차 테스트 대상자 선발 메일이 왔습니다.&lt;/p>
+&lt;p>사실 소프트웨어 지식 테스트라는 게 어떤 형태의 문제가 나올 지 알 수 없어서 여러 가지로 기존 기수의 후기들을 검색해봤습니다.&lt;/p>
+&lt;p>그래서 저도 다른 분들이 추천하신 여러 사이트에서 전공 지식들을 리마인드했습니다.&lt;/p>
+&lt;p>실제 시험을 보니, 다들 중요하다고 생각하시는 그것들을 공부하시면 될 듯 합니다. 사실 저는 열심히 하나하나 외우지는 않아서 꽤 틀렸습니다&amp;hellip;&lt;/p>
+&lt;h2 id="탈락-후-추가합격">탈락 후 추가합격
+&lt;/h2>&lt;p>&lt;img src="https://s0n9.dev/p/softeer-apply-story/2_test_fail_mail.png"
+width="1260"
+height="744"
+loading="lazy"
+alt="2차 테스트 탈락 메일"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;p>시험을 보고 2주 가량 시간이 지난 후, 탈락했다는 메일이 오게 되었습니다. 그런데&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://s0n9.dev/p/softeer-apply-story/pass.png"
+width="1626"
+height="502"
+loading="lazy"
+alt="추가 합격 메일"
+class="gallery-image"
+data-flex-grow="323"
+data-flex-basis="777px"
+>&lt;/p>
+&lt;p>탈락 메일 다음 날 아침, 추가 합격 메일이 오게 되었습니다. 아무래도 예비 순위가 꽤나 높았던 것 같습니다.&lt;/p>
+&lt;h2 id="결과">결과
+&lt;/h2>&lt;p>결국 합격은 했지만, 입과를 하지는 않았습니다.&lt;/p>
+&lt;p>이유는 여러 가지가 있었지만, 우선 오프라인 교육이라는 것도 꽤 부담이 있었습니다. 저는 지방에서 사는 학생이고, 2달간 교육을 받으려면 숙소를 구해야 하는 상황이었습니다.&lt;/p>
+&lt;p>또, 2달이라는 교육도 제 입장에서는 좀 짧다는 생각을 했습니다. 2달간 배워서 제가 백엔드 직무로 취업을 할 수 있을까 생각을 했을 때, 확실하지 않다는 생각을 했습니다. 그리고 위의 숙소를 구해야 되는 상황과 연계되어 2달짜리 교육을 듣기 위해 서울에 올라가는 것도 저한테는 부담이 되는 상황이었습니다.&lt;/p>
+&lt;p>마지막으로는 취업 연계의 불확실성이었습니다. 이전 기수 후기들을 읽어보니 취업 연계율이 굉장히 낮다는 이야기가 있었습니다.&lt;/p>
+&lt;p>사실 여러 가지 이유로 입과를 포기하긴 했지만, 제가 만약 서울에 살았으면 가벼운 마음으로 합격한 김에 교육을 들었을 것 같습니다. 다른 분들은 합격하시면 교육을 들으시는 것을 추천드립니다.&lt;/p>
+&lt;p>저는 현재는 다른 교육 커리큘럼 진행 중에 있습니다. 해당 과정에 대해서도 추후 후기 글을 올리겠습니다.&lt;/p></description></item></channel></rss>
