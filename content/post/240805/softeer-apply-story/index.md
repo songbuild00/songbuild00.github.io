@@ -3,6 +3,7 @@ title: 소프티어 부트캠프 4기 웹백엔드 전형 후기
 description: 현대자동차그룹 소프티어 부트캠프 4기 웹백엔드 전형 후기입니다.
 slug: softeer-apply-story
 date: 2024-08-05 00:00:00+0900
+image: softeer_bootcamp_logo.jpg
 categories:
     - 후기
 tags:
